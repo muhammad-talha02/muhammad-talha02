@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name Muhammad Talha. and I'm a Full Stack developer, from UAE.</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Talha. and I'm a Full Stack developer, from UAE.</h2>
 
 ###
 
